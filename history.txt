@@ -1,0 +1,112 @@
+ 968  ls
+  969  cd
+  970  pwd
+  971  ls
+  972  cd ..
+  973  cat
+  974  mkdir sndbox
+  975  sudo cd
+  976  sudo mkdir sandbox
+  977  ls
+  978  cd sandbox
+  979  sudo touch example.txt
+  980  ls
+  981  echo "hello" > example.txt
+  982  sudo echo "hello" > example.txt
+  983  nano example.txt
+  984  sudo nano example.txt
+  985  cat example.txt
+  986  sudo cp example.txt sandbox
+  987  ls
+  988  sudo nano sandbox
+  989  ls
+  990  sudo mv sandbox sandhoi
+  991  ls
+  992  cd ..
+  993  sudo mkdir sandbox_new
+  994  ls
+  995  sudo mv sandbox/sanhoi sandbox_new/
+  996  sudo mv sandbox/sandhoi sandbox_new/
+  997  ls
+  998  cd sandbox_new
+  999  ls
+ 1000  cd ..
+ 1001  git clone https://github.com/arybin93/sandbox/raw/master/application_1674570331837_972184.zip
+ 1002  sudo wget -P https://github.com/arybin93/sandbox/raw/master/application_1674570331837_972184.zip 
+ 1003  sudo wget -P sandbox https://github.com/arybin93/sandbox/raw/master/application_1674570331837_972184.zip 
+ 1004  cd sandox
+ 1005  ls
+ 1006  cd sandbox
+ 1007  ls
+ 1008  cd ..
+ 1009  cd sandbox
+ 1010  head application_1674570331837_972184.zip
+ 1011  tail application_1674570331837_972184.zip
+ 1012  sudo unzip application_1674570331837_972184.zip
+ 1013  cat application_1674570331837_972184.log | grep "ERROR"
+ 1014  wc -w application_1674570331837_972184.log
+ 1015  du -h application_1674570331837_972184.log
+ 1016  zip application_log.zip prom@shp:/home/sandbox  $ du -h application_1674570331837_972184.log
+ 1017  368K	application_1674570331837_972184.log
+ 1018  sudo zip application_1674570331837_972184.zip application_1674570331837_972184.log
+ 1019  du -h application_1674570331837_972184.zip
+ 1020  unzip application_1674570331837_972184.zip
+ 1021  sudo unzip application_1674570331837_972184.zip
+ 1022  df -h
+ 1023  df -h > disk_usage.txt
+ 1024  sudo df -h > disk_usage.txt
+ 1025  df -help
+ 1026  df --help
+ 1027  sudo df -h > disk_usage.txt
+ 1028  ls
+ 1029  touch disk_usage.txt
+ 1030  sudo touch disk_usage.txt
+ 1031  sudo df -h > disk_usage.txt
+ 1032  sudo chown prom sandbox
+ 1033  sudo chown prom sandbox/
+ 1034  sudo chown prom 
+ 1035  cd ..
+ 1036  sudo chown prom sandbox/
+ 1037  cd sandbox
+ 1038  sudo df -h > disk_usage.txt
+ 1039  df -h
+ 1040  ls
+ 1041  df -h disk_usage.txt
+ 1042  df -h > disk_usage.txt
+ 1043  mkdir repa
+ 1044  cd repa
+ 1045  git init
+ 1046  cd ..
+ 1047  cd sandbox/repa
+ 1048  mv ../sandbox/sandhoi
+ 1049  mv ../sandbox/sandhoi.txt
+ 1050  mv ../sandbox/sandhoi.txt ../sandbox/repa
+ 1051  cd ..
+ 1052  mv sandbox/sandhoi sandbox/repa
+ 1053  cd sandbox
+ 1054  ls
+ 1055  cd ..
+ 1056  mv sandbox_new/sandhoi sandbox/repa
+ 1057  sudo mv sandbox_new/sandhoi sandbox/repa
+ 1058  cd sandbox
+ 1059  cd repa
+ 1060  ls
+ 1061  git add sandhoi
+ 1062  git commit -m "hello"
+ 1063  git status
+ 1064  git log
+ 1065  git branch -b new_branch
+ 1066  git branch new_branch
+ 1067  git checkout new_branch
+ 1068  sudo nano sandhoi
+ 1069  git add sandhoi
+ 1070  git commit -m "add some people"
+ 1071  git checkout master
+ 1072  git merge new_branch
+ 1073  history
+ 1074  sudo history > history.txt
+ 1075  history --help
+ 1076  cd ..
+ 1077  touch history.txt
+ 1078  sudo history > history.txt
+ 1079  history > history.txt
